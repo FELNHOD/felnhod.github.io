@@ -243,6 +243,9 @@ header
    color: #f5a425;
 }
 
+.logo {
+  width: 200px;
+}
 .background-header {
   background-color: #fff!important;
   height: 80px!important;

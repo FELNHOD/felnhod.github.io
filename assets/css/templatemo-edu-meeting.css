@@ -1479,7 +1479,7 @@ heading page
 */
 
 section.heading-page {
-  background-image: url(../images/heading-bg.jpg);
+  background-image: url(../images/kids\ from\ iac.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1493,17 +1493,23 @@ section.heading-page h6 {
   font-size: 15px;
   text-transform: uppercase;
   font-weight: 600;
-  color: #fff;
+  color: #ffffff;
   letter-spacing: 1px;
+  text-shadow: 2px 2px 5px #f82959;
+}
+
+section.heading-page h6 span{
+  text-shadow: 0 0 3px #014fb3, 0 0 5px #347ce4;
+
 }
 
 section.heading-page h2 {
   margin-top: 20px;
   margin-bottom: 20px;
-  font-size: 36px;
+  font-size: 50px;
   text-transform: uppercase;
   font-weight: 800;
-  color: #fff;
+  color: #f82959;
   letter-spacing: 1px;
 }
 

@@ -808,9 +808,9 @@ services
   padding: 40px;
 }
 
+
 .services .item .icon {
-  max-width: 60px;
-  margin: 0 auto;
+  font-size: 100px;
 }
 
 .services .item h4 {
@@ -1491,18 +1491,109 @@ section.heading-page {
 
 section.heading-page h6 {
   margin-top: 0px;
-  font-size: 15px;
+  font-size: 20px;
   text-transform: uppercase;
   font-weight: 600;
   color: #ffffff;
   letter-spacing: 1px;
   text-shadow: 2px 2px 5px #f82959;
+  padding-top: 20px;
 }
 
 section.heading-page h6 span{
   text-shadow: 0 0 3px #014fb3, 0 0 5px #347ce4;
 
 }
+.upcoming {
+  font-size: 100px;
+  font-weight: 600;
+  margin-top: 0px;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  padding-right: 40dvh;
+  padding-bottom: 0dvh;
+  text-shadow: 2px 3px 5px #1f272b;
+}
+
+.char1 {
+  color: #fe4058;
+}
+
+.char2 {
+  color: #fecc5e;
+}
+
+.char3 {
+  color: #fedfe4;
+}
+
+.char4 {
+  color: #2e60c7;
+}
+
+.char5 {
+  color: #aef4ff;
+}
+
+.char6 {
+  color: #fe445c;
+}
+
+.char7 {
+  color: #fee747;
+}
+
+.char8 {
+  color: #fee9f1;
+}
+
+.events {
+  font-size: 100px;
+  font-weight: 600;
+  margin-top: 0px;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  padding-left: 50dvh;
+  padding-top: 0dvh;
+  text-shadow: 2px 3px 5px #1f272b;
+}
+
+.char9 {
+  color: #aae7fd;
+}
+
+.char10 {
+  color: #fee1e8;
+}
+
+.char11 {
+  color: #fb5768;
+}
+
+.char12 {
+  color: #fefe63;
+}
+
+.char13 {
+  color: #febf4e;
+}
+
+.char14 {
+  color: #2196F3;
+}
+
+.char15 {
+  color: #03A9F4;
+}
+
+.char16 {
+  color: #00BCD4;
+}
+
+
+
+
+
 
 section.heading-page h2 {
   margin-top: 20px;
@@ -1527,7 +1618,7 @@ section.meetings-page {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 140px;
+  padding-top: 70px;
   padding-bottom: 0px;
 }
 

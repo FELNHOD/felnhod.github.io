@@ -197,6 +197,7 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   color: #fff;
+  padding-top: 10px;
 }
 
 
@@ -810,7 +811,7 @@ services
 
 
 .services .item .icon {
-  font-size: 100px;
+  font-size: 80px;
 }
 
 .services .item h4 {

@@ -174,7 +174,7 @@ body {
 .main-button-yellow a {
   font-size: 13px;
   color: #fff;
-  background-color: #f5a425;
+  background-color: #f82959;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 22px;
@@ -359,7 +359,7 @@ header
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #f5a425!important;
+  color: #347ce4!important;
   opacity: 1;
 }
 
@@ -561,7 +561,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #f5a425;
+  color: #014fb3;
 }
 
 @media (max-width: 1200px) {
@@ -1106,7 +1106,7 @@ section.apply-now .item p {
   transition: transform 200ms ease-in-out;
 }
 .accordion-head.is-open {
-  color: #f5a425;
+  color: #347ce4;
   border-bottom: none;
 }
 .accordion-head.is-open .icon {
@@ -1426,6 +1426,7 @@ section.contact-us .right-info {
   background-color: #347ce4;
   border-radius: 20px;
   padding: 40px;
+  padding-left: 20px;
 }
 
 section.contact-us .right-info ul li {
